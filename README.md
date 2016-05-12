@@ -1,7 +1,9 @@
 # SmallDay02
 由于第一个Demo没有及时更新到master主分支...结果Support合并回去的时候出现树枝冲突..太难看了.我重新开一个
 
-- 直接打开SmallDay.xcworkspace运行工程即可
+
+###
+直接打开SmallDay.xcworkspace运行工程即可
 ****
 ### 效果图
 ****
